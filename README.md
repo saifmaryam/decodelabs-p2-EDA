@@ -13,18 +13,6 @@ Explore the cleaned dataset to discover hidden patterns, trends, and outliers. T
 
 ---
 
-## 📁 Repository Structure
-
-```
-decodelabs-p2-eda/
-│
-├── 📄 project2_eda.py          # Main EDA script
-├── 📊 cleaned_dataset.xlsx     # Input dataset (from Project 1)
-└── 🖼️ eda_dashboard.png        # Output — 4-chart EDA dashboard
-```
-
----
-
 ## 🔍 What This Project Does
 
 ### Step 1 — Load Dataset
